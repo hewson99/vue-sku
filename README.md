@@ -2,7 +2,7 @@
 
 这份代码包含了一个名为SkuManager的类，以及一些辅助的Node类。SkuManager类用于管理SKU（库存量单位）相关的数据，包括初始化、添加、删除和生成数据等功能。
 
-## [在线 DEMO](https://weipo3.github.io/vue-sku/)
+## [在线 DEMO](https://hewson99.github.io/vue-sku/)
 
 ## 使用方法
 
